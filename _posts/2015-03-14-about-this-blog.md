@@ -6,9 +6,9 @@ date:   2015-03-14 18:56:56
 ---
 Hi, my name is Carlos Colorado and I am a full stack web developer. I am a `UNIX` and `vim`
 lover, who dwells every now and then on gaming, although I don't really have that much time for
-the last one. My motivations for writing a blog are perhaps among the most common ones.
-Creating habits, exercise linguistic abilities, improve thought processes and self
-reference stuff that I find really useful but often forget.
+the last one. My motivations for writing this blog are creating habits, exercise linguistic
+abilities, improve thought processes and self reference stuff that I find really useful but
+often forget.
 
 One of the most immediate motivations for writing this blog is to get a chance to practice typing
 on my new `ergodox` keyboards. I used to be a touch typist until I got these keyboards,
