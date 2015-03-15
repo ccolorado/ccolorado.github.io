@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "About this blog"
-categories: blog jekyll personal
+categories: personal blog jekyll
+date:   2015-03-14 18:56:56
 ---
 Hi, my name is Carlos Colorado and I am a full stack web developer. I am a `UNIX` and `vim`
 lover, who dwells every now and then on gaming, although I don't really have that much time for
@@ -30,3 +31,5 @@ writing. I don't want to trade practicality for feature-fullness.
 
 So far Jekyll seems to agree with all my requirements, so I am very optimistic about it.
 I will probably integrate a commenting platform, I am thinking `disqus`.
+
+Happy Pi day.
