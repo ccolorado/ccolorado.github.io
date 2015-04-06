@@ -30,7 +30,8 @@ one will have to move into each window and place the desired buffer into it.
 ```VimL
 :windo diffthis
 ```
-And thats is, you should have a view similar to this one.
+
+And thats is, you should have a view similar to [this] ({{site.url}}/assets/comparing_buffers_on_vim_expample_1_comparing_3_buffers.png)
 
 Exit the diff mode with the command
 ```VimL
