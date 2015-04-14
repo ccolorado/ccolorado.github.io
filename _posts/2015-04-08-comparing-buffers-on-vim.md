@@ -3,6 +3,7 @@ layout: post
 title: "Comparing buffers on vim"
 categories: vimtips note_to_self
 date:   2015-04-08 19:28:57
+comments: true
 ---
 
 In my opinion comparing a set of files has to be one of the most tedious, boring
