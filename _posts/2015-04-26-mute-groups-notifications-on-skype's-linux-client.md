@@ -3,6 +3,7 @@ layout: post
 title: "Mute groups notifications on Skype's linux client"
 categories: productivity tip linux skype
 date:   2015-04-25 18:56:56
+comments: true
 ---
 
 So you probably have at least one Skype group that is free topic. Perhaps this chat has
